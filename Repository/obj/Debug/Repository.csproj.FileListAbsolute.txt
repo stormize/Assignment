@@ -1,0 +1,12 @@
+C:\Users\IT Shop\source\repos\Assignment\Repository\bin\Debug\Repository.dll.config
+C:\Users\IT Shop\source\repos\Assignment\Repository\bin\Debug\Repository.dll
+C:\Users\IT Shop\source\repos\Assignment\Repository\bin\Debug\Repository.pdb
+C:\Users\IT Shop\source\repos\Assignment\Repository\bin\Debug\EntityFramework.dll
+C:\Users\IT Shop\source\repos\Assignment\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT Shop\source\repos\Assignment\Repository\bin\Debug\EntityFramework.xml
+C:\Users\IT Shop\source\repos\Assignment\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT Shop\source\repos\Assignment\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\IT Shop\source\repos\Assignment\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\IT Shop\source\repos\Assignment\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\IT Shop\source\repos\Assignment\Repository\obj\Debug\Repository.dll
+C:\Users\IT Shop\source\repos\Assignment\Repository\obj\Debug\Repository.pdb
